@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pangolin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pangolin/components/pango_python/pybind11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pangolin/scripts/vcpkg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/g2o" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/g2opy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/some/pyslam/g2opy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/some/pyslam/thirdparty/g2opy" vcs="Git" />
+  </component>
+</project>
